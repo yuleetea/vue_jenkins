@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2>Adding even more content for web hooks</h2>
   </div>
 </template>
 
